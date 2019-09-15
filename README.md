@@ -26,3 +26,7 @@
   <img src="https://github.com/Konstantinos-KK/IDD-Lab2-Prep/blob/master/lab2prep2.jpg" width="280" /> 
   <img src="https://github.com/Konstantinos-KK/IDD-Lab2-Prep/blob/master/lab2prep3.jpg" width="280" />
 </p>
+<p align="center"> <b> Zoomed in version of Pre-Lab work and diagrams </b> </p>
+![prelab1](https://github.com/Konstantinos-KK/IDD-Lab2-Prep/blob/master/lab2prep1.jpg)
+![prelab2](https://github.com/Konstantinos-KK/IDD-Lab2-Prep/blob/master/lab2prep2.jpg)
+![prelab3](https://github.com/Konstantinos-KK/IDD-Lab2-Prep/blob/master/lab2prep3.jpg)
