@@ -20,4 +20,9 @@
 
 10. Solve a switch puzzle in under 30 secs trying different combinations to light up the LED.
 
-
+<p align="center"> <b> Pre-Lab work and diagrams </b> </p>
+<p float="left">
+  <img src="https://github.com/Konstantinos-KK/IDD-Lab2-Prep/blob/master/lab2prep1.jpg" width="280" />
+  <img src="https://github.com/Konstantinos-KK/IDD-Lab2-Prep/blob/master/lab2prep2.jpg" width="280" /> 
+  <img src="https://github.com/Konstantinos-KK/IDD-Lab2-Prep/blob/master/lab2prep3.jpg" width="280" />
+</p>
